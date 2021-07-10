@@ -1,6 +1,6 @@
 <div class="cell markdown">
 
-# Predicting Property Maintenance Fines (or Blight)
+# Predicting Property Maintenance Fines
 
 This is based on a data challenge from the Michigan Data Science Team
 ([MDST](http://midas.umich.edu/mdst/)).
